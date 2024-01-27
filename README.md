@@ -2,8 +2,8 @@
 
 Projeto-Dados COVID-19
 
-O objetivo deste relatório é a Análise dos dados de casos do COVID-19 utilizando a ferramenta Python.
-Os dados foram coletados da seguinde API: https://covid19-brazil-api-docs.vercel.app/
+O objetivo deste relatório é a Análise dos dados de casos do COVID-19 por países utilizando a ferramenta Python.
+Os dados foram coletados da seguinde API: [https://covid19-brazil-api-docs.vercel.app/](https://covid19-brazil-api.now.sh/api/report/v1/countries)
 
 Os principais tópicos são:
 
